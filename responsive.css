@@ -1,0 +1,6 @@
+/*スマホ向けレイアウト*/
+@media (max-width: 670px) {
+  .member {
+    width: 100%;
+  }
+}
