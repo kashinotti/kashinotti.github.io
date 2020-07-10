@@ -31,7 +31,7 @@ header {
 .top-wrapper {
   height: 700px;
   widht: 100%;
-  background-image: url(file:///Users/onoryota/Desktop/top.png);
+  background-image: url(top.png);
   background-size: cover;
   opacity: 0.8;
   padding-top: 30px;
