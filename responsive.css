@@ -1,9 +1,16 @@
 /*スマホ向けレイアウト*/
 @media (max-width: 670px) {
+  .top-wrapper {
+    height: 900px;
+  }
+.container h2 {
+  font-size: 40px;
+}
+
   .member {
     width: 100%;
   }
-  .message-wrapper {
+  .message-wrapper h2 {
     text-align: center;
     font-size: 2px;
   }
@@ -12,5 +19,9 @@
   }
   .facebook {
     margin-bottom: 10px;
+  }
+  .button {
+    font-size: 80px;
+    width: 100%;
   }
 }
