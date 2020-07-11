@@ -6,7 +6,10 @@
 .container h2 {
   font-size: 40px;
 }
-
+.introduce-wrapper {
+  height: 900px;
+  padding-top:50px;
+}
   .member {
     width: 100%;
   }
