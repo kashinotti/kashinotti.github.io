@@ -9,7 +9,7 @@
   font-size: 50px;
 }
 .introduce-wrapper {
-  height: 2500px;
+  height: 1500px;
   padding-top:50px;
   width: 100%;
 }
@@ -31,7 +31,6 @@
     font-size: 10px;
     width: 100%;
     margin-top: 50px;
-    text-align: center;
   }
 }
 
