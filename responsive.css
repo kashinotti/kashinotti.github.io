@@ -1,5 +1,5 @@
 /*スマホ向けレイアウト*/
-@media (max-width: 670px) {
+@media (max-width: 375px) {
   .top-wrapper {
     height: 900px;
     width: 100%;
