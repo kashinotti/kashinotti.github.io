@@ -1,7 +1,7 @@
 /*スマホ向けレイアウト*/
 @media (max-width: 375px) {
   .top-wrapper {
-    height: 900px;
+    height: 800px;
     width: 100%;
     padding-bottom: 50px;
   }
@@ -9,7 +9,7 @@
   font-size: 50px;
 }
 .introduce-wrapper {
-  height: 2600px;
+  height: 3100px;
   padding-top:50px;
   width: 100%;
 }
