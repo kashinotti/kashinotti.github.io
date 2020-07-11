@@ -9,7 +9,7 @@
   font-size: 50px;
 }
 .introduce-wrapper {
-  height: 2000px;
+  height: 2600px;
   padding-top:50px;
   width: 100%;
 }
@@ -22,7 +22,7 @@
     margin-top: 50px;
   }
   .btn {
-    width: 50%;
+    width: 100%;
   }
   .facebook {
     margin-bottom: 10px;
