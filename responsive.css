@@ -2,20 +2,23 @@
 @media (max-width: 670px) {
   .top-wrapper {
     height: 900px;
+    width: 100%;
   }
 .container h2 {
-  font-size: 40px;
+  font-size: 50px;
 }
 .introduce-wrapper {
   height: 900px;
   padding-top:50px;
+  width: 100%;
 }
   .member {
     width: 100%;
   }
   .message-wrapper h2 {
     text-align: center;
-    font-size: 2px;
+    font-size: 45px;
+    margin-top: 10px;
   }
   .btn {
     width: 100%;
@@ -24,7 +27,8 @@
     margin-bottom: 10px;
   }
   .button {
-    font-size: 80px;
+    font-size: 10px;
     width: 100%;
+    margin-top: 10px;
   }
 }
